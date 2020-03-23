@@ -7,7 +7,7 @@ public enum Difficulty{
     easy(1.4f),
     normal(1f),
     hard(0.5f),
-    insane(0.24f);
+    insane(0.23f);
 
     /** Multiplier of the time between waves. */
     public final float waveTime;
